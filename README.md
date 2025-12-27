@@ -1,15 +1,52 @@
-# 💫 About Me:
-i am a student of grade 12 <br>i am currently learning python <br>i have also done course from microsoft and google <br>i want to amke project with my friends on github
+# 👋 Hi, I'm Rushaan
 
+## 🙋 About Me
+- Grade 12 student
+- Currently learning Python and basic electronics
+- Interested in AI, Arduino projects, and cloud computing
+- I like building small projects and collaborating with friends
+- Always curious and trying to improve every day
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rushaanthind27.gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rushaanthind27.gif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushaanthind27.gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🎯 My Goals
 
----
-[![](https://visitcount.itsvg.in/api?id=rushaanthind27.gif&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔹 Short-Term Goals (Next 6–12 months)
+- Build at least 5–7 Python projects
+- Learn Git and GitHub properly
+- Practice problem-solving and logic building
+- Improve confidence in Python basics → intermediate
+- Participate in small hackathons or coding events
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># rushaaanthind27-gif
+### 🔹 Long-Term Goals
+- Get into a good university and pursue tech
+- Learn machine learning and AI step by step
+- Contribute to open-source projects on GitHub
+- Build useful apps that help people
+
+## 📚 What I’m Currently Learning
+- Python (loops, functions, OOP)
+- Git & GitHub workflow
+- Google Cloud basics
+- Arduino projects with simple sensors
+
+## 🛠 Tech Stack
+- Python  
+- Google Cloud (beginner)  
+- Arduino  
+- Basic Electronics  
+
+## 🚧 Projects (Work in Progress)
+- Python mini-games
+- Simple calculator app
+- Expense tracker
+- Arduino LED and sensor projects
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushaanthind27-gif&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushaanthind27-gif&layout=compact)
+
+## 🤝 Collaboration
+Open to collaborating on beginner Python or Arduino projects.
+
+## 📫 Contact
+Feel free to reach out through GitHub discussions or issues.
